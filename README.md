@@ -21,7 +21,7 @@ List of past projects (reverse chronology):
 
 List of future projects (in planning / research phase):
 
-- An alternate firmware for Temps_Utile eurorack module: there exists a synthesizer called an "Ornament and Crime" which serves various functions, and the "Temps_Utile" is its less successful younger sibling, with mostly digital-exclusive outputs (in contrast to the O_C's analog outputs). I plan to code a set of logic functions to run on these digital outputs.
+- An alternate firmware for Temps_Utile eurorack module: there exists a synthesizer called an "Ornament and Crime" which serves various functions, and the "Temps_Utile" is its less successful younger sibling, with mostly digital-exclusive outputs (in contrast to the O_C's analog outputs). I plan to code a set of real-time DSP logic functions to run on these digital outputs. I know how to do this, and it will just take some time.
 - A searchable index for the texts of Jacques Lacan - I need more Natural Language Processing education for this, and thus it is further out, but I would like to build a searchable index for JL and some of my favorite other too-prolific authors (maybe Soren Kierkegaard).
 
 
