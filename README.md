@@ -1,37 +1,16 @@
-- 👋 Hi, I’m Andrew Paquette (@am-pq)
+- 👋 Hi, I’m Andrew Michael Paquette (@am-pq). 
+- [Most of these are programming assignments for my university education, and thus I cannot post code by university policy. See the list of future projects for code I would like to work on and post, when I get a spare moment.]
 
-A summary of my academic history (uAlberta) by division into three categories:
 
-*Courses I found success in, with ease. Consider these my list of loved topics.*
 
-  C programming
-  Game design
-  Linear Algebra
-  Speech Synthesis
-  Calculus (SingleVariable and MultiVariable)
-  Numerical Methods
-  Higher Algebra
-  Mathematical Modelling
-  Probability
-  Graph Theory
-  Technical Communication
+List of past projects (reverse chronology):
 
-*Courses I found success in, with difficulty.*
+  work in progress
 
-  Algorithms w Java
-  Graphics (openGL)
-  Calculus (Differential Equations)
-  Mathematical Finance
+List of future projects:
 
-*Courses I struggled with. Consider these my weaknesses.*
+  work in progress
 
-  Statistics
-  Machine Learning
-  Assembly and Architecture w RISC
-  
-*Future Prospects*
- 
-  My next learning project, by sheer interest, is not through my Alma Mater. Just in my spare time, I aim to learn, via MIT's OCW resources, their 3 course sequence on Circuits, Signals, and Systems. 
 
 <!---
 am-pq/am-pq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
